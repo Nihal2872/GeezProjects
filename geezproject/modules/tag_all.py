@@ -122,7 +122,7 @@ async def _(event):
                     tags.append(text)
 
                 await event.client.send_message(event.chat_id, " ".join(tags))
-                await asyncio.sleep(5)
+                await asyncio.sleep(30)
     finally:
         FlagContainer.is_active = False
 
