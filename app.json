@@ -3,7 +3,7 @@
   "description": "[GeezUserbot] geezproject Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/02b3dbeb4df30582f0d66.jp",
   "keywords": ["telegram", "geezproject", "geezprojects", "modular", "python"],
-  "repository": "https://github.com/vckyou/GeezProjects",
+  "repository": "https://github.com/Nihal2872/GeezTag",
   "stack": "container",
   "env": {
     "API_KEY": {
